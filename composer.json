@@ -1,0 +1,23 @@
+{
+	"name": son/mrv,
+	"require": {
+		"php": ">=5.2"
+	},
+
+	"minimum-stability": "alpha",
+	"authors": [{
+		"name": "Joao Vithor",
+		"email": "j.vithor13@gmail.com"
+	}],
+
+	"autoload": {
+		"psr-0": {
+			"SON" : "vendor",
+			"App" : "/"
+		}
+	},
+
+	"config": {
+		"bin-dir": "bin"
+	}
+}
