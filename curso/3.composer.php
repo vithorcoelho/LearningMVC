@@ -1,6 +1,6 @@
 <?php
 	
 	// Sistema de gerenciamento de dependencias
-	// getcomposer.org
+	// ----------->>>>  getcomposer.org
 
 	// Cuida das dependencias da aplicação
