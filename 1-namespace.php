@@ -1,14 +1,17 @@
 <?php
 	
 	// Namespace serve para evitar conflitos com nomes repetidos de classes
-	namespace SON\Xpto\Exemplo;
+	// As barras separam os diretorios
+	namespace SON\Xpto;
 
 	class Exemplo {
 
 	}
 
-	// Pode ser utilizado desta forma
+	// Pode ser utilizado dest a forma
+	// As barras separa os diretorios
 	$exemplo = new \SON\Xpto\Exemplo;
+
 
 
 
